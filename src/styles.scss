@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+.bgall{
+  background-color: #8f8fff;
+  margin: 30px;
+  height: 90vh;
+  padding: 30px;
+  p{
+    display: flex;
+    justify-content: center;
+  }
+}
